@@ -11,6 +11,7 @@
         <script src="assets/js/main.js" type="text/javascript"></script>
     </head>
     <body>
+        <h1>Bootstrap</h1>
         <div class="container">
             
             <p>Test 2</p>
